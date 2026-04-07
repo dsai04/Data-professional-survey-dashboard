@@ -13,7 +13,7 @@ This project analyzes survey responses from 630 participants to understand salar
 
 ## Dashboard Preview
 
-![Dashboard](your-image-file-name.png)
+![Dashboard](data_prof_survery.png)
 
 ## Tools Used
 
