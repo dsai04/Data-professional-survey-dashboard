@@ -87,7 +87,7 @@ Career switchers earn slightly less (~$2.2K gap) and report lower salary satisfa
 
 | File | Description |
 |---|---|
-| `project.pbix` | Full Power BI dashboard |
+| `Data_survey_dashboard.pbix` | Full Power BI dashboard |
 | `Power BI -Project 1.xlsx` | Raw survey dataset |
 | `data_prof_survey.png` | Dashboard screenshot |
 
